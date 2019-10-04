@@ -6,7 +6,7 @@ No pierdas la oportunidad de jugar con Catalinita a "piedra, papel o tijera". A 
 
 ¡Mira el vídeo y verás cómo se enfada cuando pierde!
 
-[![Catalinita](./Catalinita_piedra_papel_o_tijera_pelicula.png)](https://youtu.be/ntjYxE4nAJ0)
+[![Catalinita](./Catalinita_pptijera.png)](https://youtu.be/ntjYxE4nAJ0)
 
 #### Poner en marcha el programa _Catalinita\_piedra\_papel\_o\_tijera.js_
 Este programa es un poco más difícil de poner en marcha que los anteriores, pero no imposible.<br>
