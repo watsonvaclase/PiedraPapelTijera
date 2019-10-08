@@ -1,7 +1,7 @@
 # PiedraPapelTijera
 Ejercicio del juego Piedra, Papel o Tijera de Catalinita
 
-<img id="img1" src="Catalinita/Catalinita_pptijera.png" width="150" height="186"> <br> <br>
+<img id="img1" src="files/img/Catalinita_piedra_papel_o_tijera_pelicula.png" width="150" height="186"> <br> <br>
 
 ## Catalinita juega a "piedra, papel o tijera"
 No pierdas la oportunidad de jugar con Catalinita a "piedra, papel o tijera". A ver cuántas veces te gana.
