@@ -2,8 +2,8 @@
 Ejercicio del juego Piedra, Papel o Tijera de Catalinita
 
 ¡Mira el vídeo y verás cómo se enfada cuando pierde!
-<br>
-<a href="https://youtu.be/Bt_0hJaireo"><img id="img1" src="files/img/Catalinita_piedra_papel_o_tijera_pelicula.png"></a> <br> <br>
+<br><br>
+<a href="https://youtu.be/ntjYxE4nAJ0"><img id="img1" src="files/img/Catalinita_piedra_papel_o_tijera_pelicula.png"></a> <br> <br>
 
 ## Catalinita juega a "piedra, papel o tijera"
 No pierdas la oportunidad de jugar con Catalinita a "piedra, papel o tijera". A ver cuántas veces te gana.
